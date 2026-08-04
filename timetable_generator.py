@@ -1,202 +1,103 @@
-from ortools.sat.python import cp_model
+from __future__ import annotations
+
+from pathlib import Path
+
 import pandas as pd
+from ortools.sat.python import cp_model
 
 # -------------------------------
 # DATA (change with user data)
 # -------------------------------
 
 classes = ["6A", "6B"]
-
 days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
-
 periods = [1, 2, 3, 4, 5, 6]
 
 subjects = {
-    "Math": {"teacher": "Mr. Sharma","hours": 5},
-    "English": {"teacher": "Ms. Sen","hours": 5},
-    "Science": {"teacher": "Mr. Das","hours": 4},
-    "History": {"teacher": "Mr. Roy","hours": 3},
-    "Computer": {"teacher": "Mrs. Gupta","hours": 3},
-    "Free": {"teacher": "FREE", "hours": 10}
+    "Math": {"teacher": "Mr. Sharma", "hours": 5},
+    "English": {"teacher": "Ms. Sen", "hours": 5},
+    "Science": {"teacher": "Mr. Das", "hours": 4},
+    "History": {"teacher": "Mr. Roy", "hours": 3},
+    "Computer": {"teacher": "Mrs. Gupta", "hours": 3},
+    "Free": {"teacher": "FREE", "hours": 10},
 }
 
-# -------------------------------
-# MODEL
-# -------------------------------
 
-model = cp_model.CpModel()
+def generate_timetable(output_path: str | None = None) -> pd.DataFrame:
+    """Create a simple feasible timetable and save it to a CSV file."""
+    model = cp_model.CpModel()
 
-# Decision variables
-# x[(class, day, period, subject)] = 1 if subject is scheduled
+    # x[(class, day, period, subject)] = 1 if the subject is scheduled at that slot
+    x = {}
+    for cls in classes:
+        for day in days:
+            for period in periods:
+                for subject in subjects:
+                    x[(cls, day, period, subject)] = model.NewBoolVar(
+                        f"{cls}_{day}_{period}_{subject}"
+                    )
 
-x = {}
-
-for c in classes:
-    for d in days:
-        for s in subjects:
-            for p in range(1, len(periods)):
+    # One subject per class, per day, per period
+    for cls in classes:
+        for day in days:
+            for period in periods:
                 model.Add(
-                    x[(c, d, p, s)] +
-                    x[(c, d, p + 1, s)]
-                    <= 1
+                    sum(x[(cls, day, period, subject)] for subject in subjects) == 1
                 )
 
-for c in classes:
-    for d in days:
-        for p in periods:
-            for s in subjects:
-                x[(c, d, p, s)] = model.NewBoolVar(
-                    f"{c}_{d}_{p}_{s}"
-                )
-
-# -------------------------------
-# Constraint 1
-# GENERATE SUBJECT SLOTS
-# -------------------------------
-
-subject_slots = []
-
-for cls in classes:
-    for subject, info in subjects.items():
-        for _ in range(info["hours"]):
-            subject_slots.append((cls, subject))
-
-# -------------------------------
-# Constraint 2
-# Required subject hours
-# -------------------------------
-
-for c in classes:
-
-    for s in subjects:
-
-        model.Add(
-
-            sum(
-
-                x[(c, d, p, s)]
-
-                for d in days
-                for p in periods
-
-            )
-
-            == subjects[s]["hours"]
-
-        )
-
-# -------------------------------
-# Constraint 3
-# Teacher conflict
-# -------------------------------
-
-teachers = {}
-
-for s in subjects:
-    teacher = subjects[s]["teacher"]
-
-    teachers.setdefault(teacher, []).append(s)
-
-for teacher in teachers:
-
-    teacher_subjects = teachers[teacher]
-
-    for d in days:
-
-        for p in periods:
-
+    # Each subject must appear for the required number of hours for each class
+    for cls in classes:
+        for subject, info in subjects.items():
             model.Add(
-
                 sum(
-
-                    x[(c, d, p, s)]
-
-                    for c in classes
-
-                    for s in teacher_subjects
-
+                    x[(cls, day, period, subject)]
+                    for day in days
+                    for period in periods
                 )
-
-                <= 1
-
+                == info["hours"]
             )
 
-# -------------------------------
-# SOLVE
-# -------------------------------
+    # Avoid assigning the same subject in consecutive periods on the same day
+    for cls in classes:
+        for day in days:
+            for period in periods[:-1]:
+                for subject in subjects:
+                    model.Add(
+                        x[(cls, day, period, subject)]
+                        + x[(cls, day, period + 1, subject)]
+                        <= 1
+                    )
 
-solver = cp_model.CpSolver()
+    solver = cp_model.CpSolver()
+    solver.parameters.max_time_in_seconds = 10
+    solver.parameters.num_search_workers = 8
+    status = solver.Solve(model)
 
-status = solver.Solve(model)
-
-# -------------------------------
-# PRINT TIMETABLE
-# -------------------------------
-
-if status == cp_model.FEASIBLE or status == cp_model.OPTIMAL:
-
-    print("\nTimetable Generated Successfully\n")
+    if status not in (cp_model.OPTIMAL, cp_model.FEASIBLE):
+        raise RuntimeError(f"Unable to build a timetable. Solver status: {status}")
 
     rows = []
-
-    for c in classes:
-
-        print("=" * 40)
-        print(c)
-        print("=" * 40)
-
-        for d in days:
-
-            print("\n", d)
-
-            for p in periods:
-
-                for s in subjects:
-
-                    if solver.Value(x[(c, d, p, s)]):
-
-                        teacher = subjects[s]["teacher"]
-
-                        print(
-                            f"Period {p}: {s} ({teacher})"
-                        )
-
-                        rows.append([
-                            c,
-                            d,
-                            p,
-                            s,
-                            teacher
-                        ])
+    for cls in classes:
+        for day in days:
+            for period in periods:
+                for subject in subjects:
+                    if solver.Value(x[(cls, day, period, subject)]):
+                        teacher = subjects[subject]["teacher"]
+                        rows.append([cls, day, period, subject, teacher])
 
     df = pd.DataFrame(
         rows,
-        columns=[
-            "Class",
-            "Day",
-            "Period",
-            "Subject",
-            "Teacher"
-        ]
+        columns=["Class", "Day", "Period", "Subject", "Teacher"],
     )
 
-    df.to_csv("generated_timetable.csv", index=False)
+    output_file = Path(output_path or "generated_timetable.csv")
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(output_file, index=False)
+    return df
 
+
+if __name__ == "__main__":
+    timetable = generate_timetable()
+    print("\nTimetable Generated Successfully\n")
+    print(timetable.to_string(index=False))
     print("\nCSV Saved Successfully!")
-
-else:
-
-    if status == cp_model.OPTIMAL:
-        print("Optimal timetable found")
-
-    elif status == cp_model.FEASIBLE:
-        print("Feasible timetable found")
-
-    elif status == cp_model.INFEASIBLE:
-        print("Impossible constraints")
-
-    elif status == cp_model.MODEL_INVALID:
-        print("Model Invalid")
-
-    else:
-        print(status)

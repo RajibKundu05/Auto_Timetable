@@ -1,0 +1,61 @@
+Class,Day,Period,Subject,Teacher
+6A,Monday,1,Free,FREE
+6A,Monday,2,History,Mr. Roy
+6A,Monday,3,Free,FREE
+6A,Monday,4,Science,Mr. Das
+6A,Monday,5,English,Ms. Sen
+6A,Monday,6,Free,FREE
+6A,Tuesday,1,Free,FREE
+6A,Tuesday,2,Science,Mr. Das
+6A,Tuesday,3,Free,FREE
+6A,Tuesday,4,Math,Mr. Sharma
+6A,Tuesday,5,Science,Mr. Das
+6A,Tuesday,6,Free,FREE
+6A,Wednesday,1,Free,FREE
+6A,Wednesday,2,Science,Mr. Das
+6A,Wednesday,3,Free,FREE
+6A,Wednesday,4,History,Mr. Roy
+6A,Wednesday,5,English,Ms. Sen
+6A,Wednesday,6,Math,Mr. Sharma
+6A,Thursday,1,Math,Mr. Sharma
+6A,Thursday,2,English,Ms. Sen
+6A,Thursday,3,Math,Mr. Sharma
+6A,Thursday,4,English,Ms. Sen
+6A,Thursday,5,Free,FREE
+6A,Thursday,6,History,Mr. Roy
+6A,Friday,1,Math,Mr. Sharma
+6A,Friday,2,Computer,Mrs. Gupta
+6A,Friday,3,English,Ms. Sen
+6A,Friday,4,Computer,Mrs. Gupta
+6A,Friday,5,Free,FREE
+6A,Friday,6,Computer,Mrs. Gupta
+6B,Monday,1,Free,FREE
+6B,Monday,2,English,Ms. Sen
+6B,Monday,3,Math,Mr. Sharma
+6B,Monday,4,Free,FREE
+6B,Monday,5,Math,Mr. Sharma
+6B,Monday,6,Free,FREE
+6B,Tuesday,1,Math,Mr. Sharma
+6B,Tuesday,2,Free,FREE
+6B,Tuesday,3,Computer,Mrs. Gupta
+6B,Tuesday,4,Free,FREE
+6B,Tuesday,5,History,Mr. Roy
+6B,Tuesday,6,Free,FREE
+6B,Wednesday,1,Free,FREE
+6B,Wednesday,2,Computer,Mrs. Gupta
+6B,Wednesday,3,Free,FREE
+6B,Wednesday,4,History,Mr. Roy
+6B,Wednesday,5,Free,FREE
+6B,Wednesday,6,Science,Mr. Das
+6B,Thursday,1,History,Mr. Roy
+6B,Thursday,2,Science,Mr. Das
+6B,Thursday,3,English,Ms. Sen
+6B,Thursday,4,Science,Mr. Das
+6B,Thursday,5,English,Ms. Sen
+6B,Thursday,6,Math,Mr. Sharma
+6B,Friday,1,English,Ms. Sen
+6B,Friday,2,Computer,Mrs. Gupta
+6B,Friday,3,Science,Mr. Das
+6B,Friday,4,Math,Mr. Sharma
+6B,Friday,5,English,Ms. Sen
+6B,Friday,6,Free,FREE
