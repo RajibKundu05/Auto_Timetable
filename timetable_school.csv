@@ -1,0 +1,1001 @@
+Day,Time,Class,Section,Room no,Subject,Teacher
+Friday,03:00-04:00,6,B,115,History,Mr. Ghosh
+Monday,03:00-04:00,8,A,102,Geography,Mrs. Bose
+Thursday,10:00-11:00,5,A,114,Computer,Mr. Paul
+Wednesday,02:00-03:00,4,C,119,Computer,Ms. Khan
+Friday,08:00-09:00,3,C,108,History,Mr. Ghosh
+Wednesday,09:00-10:00,9,C,120,English,Ms. Sen
+Monday,12:00-01:00,2,B,112,Science,Mr. Das
+Monday,03:00-04:00,2,B,105,Art,Mrs. Nair
+Friday,08:00-09:00,1,A,106,English,Ms. Sen
+Monday,03:00-04:00,6,C,118,Geography,Mrs. Bose
+Wednesday,12:00-01:00,8,B,117,Mathematics,Ms. Gupta
+Tuesday,08:00-09:00,5,B,112,Computer,Mr. Paul
+Friday,10:00-11:00,9,A,102,Computer,Ms. Khan
+Wednesday,08:00-09:00,7,A,117,English,Mrs. Dutta
+Monday,09:00-10:00,9,B,102,Science,Mrs. Roy
+Monday,08:00-09:00,10,C,103,Physical Education,Mr. Singh
+Thursday,11:00-12:00,5,C,119,English,Mrs. Dutta
+Tuesday,10:00-11:00,9,C,113,Science,Mrs. Roy
+Thursday,12:00-01:00,1,C,110,Art,Mrs. Nair
+Wednesday,12:00-01:00,3,B,109,History,Mr. Ghosh
+Tuesday,11:00-12:00,6,A,110,Geography,Mrs. Bose
+Friday,03:00-04:00,8,A,118,English,Ms. Sen
+Friday,03:00-04:00,7,C,113,Science,Mrs. Roy
+Thursday,03:00-04:00,9,B,109,Art,Mrs. Nair
+Tuesday,09:00-10:00,2,C,117,Science,Mrs. Roy
+Monday,11:00-12:00,8,A,103,English,Mrs. Dutta
+Monday,09:00-10:00,1,C,115,English,Ms. Sen
+Wednesday,12:00-01:00,5,C,120,English,Ms. Sen
+Friday,12:00-01:00,9,A,102,Geography,Mrs. Bose
+Friday,02:00-03:00,1,A,111,Science,Mrs. Roy
+Tuesday,08:00-09:00,2,A,101,Science,Mr. Das
+Wednesday,11:00-12:00,8,B,105,English,Mrs. Dutta
+Monday,08:00-09:00,8,C,118,Computer,Ms. Khan
+Thursday,02:00-03:00,9,A,117,History,Mr. Ghosh
+Wednesday,03:00-04:00,9,B,108,Mathematics,Mr. Sharma
+Thursday,09:00-10:00,6,B,106,Geography,Mrs. Bose
+Friday,02:00-03:00,8,A,114,Physical Education,Mr. Singh
+Friday,02:00-03:00,10,B,114,History,Mr. Ghosh
+Monday,03:00-04:00,1,B,120,Mathematics,Ms. Gupta
+Wednesday,03:00-04:00,5,C,102,Art,Mrs. Nair
+Thursday,02:00-03:00,8,A,106,English,Mrs. Dutta
+Friday,10:00-11:00,5,B,115,Art,Mrs. Nair
+Thursday,10:00-11:00,9,A,115,Computer,Ms. Khan
+Friday,09:00-10:00,6,C,101,History,Mr. Ghosh
+Wednesday,12:00-01:00,1,B,113,Physical Education,Mr. Singh
+Thursday,09:00-10:00,8,C,104,Art,Mrs. Nair
+Friday,11:00-12:00,8,C,102,History,Mr. Ghosh
+Thursday,11:00-12:00,8,A,114,Art,Mrs. Nair
+Monday,11:00-12:00,8,A,107,History,Mr. Ghosh
+Tuesday,03:00-04:00,10,B,116,Physical Education,Mr. Singh
+Tuesday,11:00-12:00,2,A,101,Art,Mrs. Nair
+Thursday,03:00-04:00,9,A,109,Geography,Mrs. Bose
+Friday,11:00-12:00,7,A,103,Physical Education,Mr. Singh
+Thursday,03:00-04:00,8,C,105,Computer,Ms. Khan
+Thursday,10:00-11:00,1,B,111,Geography,Mrs. Bose
+Thursday,02:00-03:00,6,B,113,Science,Mrs. Roy
+Wednesday,09:00-10:00,5,C,101,Mathematics,Mr. Sharma
+Tuesday,12:00-01:00,8,C,110,Geography,Mrs. Bose
+Thursday,12:00-01:00,9,C,108,Computer,Ms. Khan
+Tuesday,12:00-01:00,6,B,120,English,Mrs. Dutta
+Tuesday,08:00-09:00,9,A,103,Geography,Mrs. Bose
+Wednesday,11:00-12:00,2,A,112,English,Ms. Sen
+Thursday,10:00-11:00,3,C,115,Physical Education,Mr. Singh
+Thursday,10:00-11:00,9,C,105,History,Mr. Ghosh
+Wednesday,09:00-10:00,6,B,111,Physical Education,Mr. Singh
+Tuesday,09:00-10:00,6,C,110,Mathematics,Ms. Gupta
+Wednesday,12:00-01:00,10,B,104,Computer,Ms. Khan
+Monday,08:00-09:00,10,B,116,Physical Education,Mr. Singh
+Monday,03:00-04:00,7,B,106,English,Mrs. Dutta
+Friday,02:00-03:00,1,C,110,History,Mr. Ghosh
+Friday,09:00-10:00,8,C,117,History,Mr. Ghosh
+Friday,02:00-03:00,6,C,115,Art,Mrs. Nair
+Wednesday,12:00-01:00,4,C,107,English,Mrs. Dutta
+Monday,02:00-03:00,8,C,110,English,Mrs. Dutta
+Friday,12:00-01:00,10,A,120,Art,Mrs. Nair
+Monday,02:00-03:00,7,C,101,Geography,Mrs. Bose
+Friday,03:00-04:00,7,A,105,Geography,Mrs. Bose
+Monday,10:00-11:00,7,B,120,English,Ms. Sen
+Wednesday,09:00-10:00,10,C,111,Computer,Ms. Khan
+Tuesday,12:00-01:00,5,C,112,History,Mr. Ghosh
+Thursday,08:00-09:00,2,B,117,English,Mrs. Dutta
+Tuesday,02:00-03:00,10,C,116,History,Mr. Ghosh
+Wednesday,08:00-09:00,3,B,117,Mathematics,Mr. Sharma
+Wednesday,02:00-03:00,9,C,104,History,Mr. Ghosh
+Monday,11:00-12:00,3,B,110,History,Mr. Ghosh
+Friday,02:00-03:00,5,C,105,Geography,Mrs. Bose
+Wednesday,08:00-09:00,1,C,111,Computer,Mr. Paul
+Wednesday,02:00-03:00,9,A,117,History,Mr. Ghosh
+Thursday,02:00-03:00,7,C,108,English,Mrs. Dutta
+Monday,08:00-09:00,7,B,104,English,Ms. Sen
+Monday,10:00-11:00,4,C,112,Art,Mrs. Nair
+Wednesday,11:00-12:00,9,B,108,Mathematics,Mr. Sharma
+Thursday,12:00-01:00,10,B,103,Physical Education,Mr. Singh
+Thursday,03:00-04:00,3,B,101,Art,Mrs. Nair
+Thursday,12:00-01:00,8,A,108,Mathematics,Ms. Gupta
+Tuesday,10:00-11:00,10,C,118,Physical Education,Mr. Singh
+Tuesday,12:00-01:00,4,B,101,English,Mrs. Dutta
+Tuesday,08:00-09:00,4,A,114,Physical Education,Mr. Singh
+Monday,02:00-03:00,4,B,115,Physical Education,Mr. Singh
+Wednesday,09:00-10:00,1,B,101,Art,Mrs. Nair
+Thursday,09:00-10:00,7,B,117,English,Ms. Sen
+Tuesday,11:00-12:00,5,A,106,Science,Mrs. Roy
+Thursday,08:00-09:00,1,A,111,Mathematics,Ms. Gupta
+Monday,02:00-03:00,10,C,111,Art,Mrs. Nair
+Wednesday,03:00-04:00,1,B,120,History,Mr. Ghosh
+Wednesday,03:00-04:00,2,C,112,Art,Mrs. Nair
+Monday,08:00-09:00,3,B,109,Computer,Mr. Paul
+Tuesday,02:00-03:00,4,B,117,Physical Education,Mr. Singh
+Monday,10:00-11:00,1,B,118,History,Mr. Ghosh
+Tuesday,02:00-03:00,7,A,104,English,Ms. Sen
+Friday,10:00-11:00,3,C,111,English,Ms. Sen
+Tuesday,02:00-03:00,4,C,120,Computer,Ms. Khan
+Tuesday,10:00-11:00,3,A,117,Mathematics,Ms. Gupta
+Thursday,03:00-04:00,3,B,103,Physical Education,Mr. Singh
+Friday,11:00-12:00,7,C,104,Computer,Mr. Paul
+Tuesday,09:00-10:00,6,A,101,Physical Education,Mr. Singh
+Thursday,02:00-03:00,9,C,114,Mathematics,Mr. Sharma
+Tuesday,03:00-04:00,2,A,108,Physical Education,Mr. Singh
+Monday,12:00-01:00,2,B,106,History,Mr. Ghosh
+Friday,02:00-03:00,7,A,112,Computer,Mr. Paul
+Friday,11:00-12:00,7,B,110,Physical Education,Mr. Singh
+Monday,11:00-12:00,3,A,105,Science,Mrs. Roy
+Thursday,10:00-11:00,9,B,115,History,Mr. Ghosh
+Thursday,03:00-04:00,9,A,103,Mathematics,Mr. Sharma
+Thursday,08:00-09:00,8,A,113,History,Mr. Ghosh
+Tuesday,11:00-12:00,10,B,111,English,Ms. Sen
+Friday,02:00-03:00,8,C,114,Geography,Mrs. Bose
+Tuesday,11:00-12:00,10,C,111,Computer,Ms. Khan
+Thursday,09:00-10:00,1,A,114,History,Mr. Ghosh
+Thursday,02:00-03:00,1,A,115,Mathematics,Mr. Sharma
+Monday,10:00-11:00,5,B,109,Computer,Mr. Paul
+Wednesday,08:00-09:00,5,B,110,Computer,Ms. Khan
+Thursday,11:00-12:00,4,B,108,History,Mr. Ghosh
+Wednesday,03:00-04:00,6,A,105,Science,Mrs. Roy
+Wednesday,02:00-03:00,2,A,120,English,Mrs. Dutta
+Monday,02:00-03:00,3,A,105,English,Ms. Sen
+Friday,09:00-10:00,4,B,108,Physical Education,Mr. Singh
+Wednesday,02:00-03:00,7,C,110,Mathematics,Ms. Gupta
+Wednesday,12:00-01:00,4,B,108,Mathematics,Mr. Sharma
+Monday,11:00-12:00,8,B,116,Art,Mrs. Nair
+Tuesday,08:00-09:00,6,A,117,Mathematics,Ms. Gupta
+Friday,11:00-12:00,1,B,103,English,Mrs. Dutta
+Wednesday,02:00-03:00,3,B,117,Science,Mrs. Roy
+Monday,02:00-03:00,10,A,112,Art,Mrs. Nair
+Friday,11:00-12:00,7,B,117,Computer,Mr. Paul
+Thursday,10:00-11:00,4,A,110,Physical Education,Mr. Singh
+Monday,11:00-12:00,7,A,110,Physical Education,Mr. Singh
+Wednesday,11:00-12:00,3,C,101,Mathematics,Ms. Gupta
+Wednesday,03:00-04:00,1,A,118,History,Mr. Ghosh
+Friday,02:00-03:00,8,C,120,History,Mr. Ghosh
+Wednesday,03:00-04:00,1,B,105,Science,Mr. Das
+Tuesday,11:00-12:00,6,C,115,Geography,Mrs. Bose
+Thursday,12:00-01:00,1,A,118,Mathematics,Mr. Sharma
+Wednesday,11:00-12:00,9,B,105,English,Mrs. Dutta
+Tuesday,11:00-12:00,10,C,103,English,Ms. Sen
+Monday,08:00-09:00,3,A,118,Art,Mrs. Nair
+Monday,09:00-10:00,9,C,106,Computer,Ms. Khan
+Thursday,03:00-04:00,6,A,116,Physical Education,Mr. Singh
+Thursday,12:00-01:00,8,C,102,Physical Education,Mr. Singh
+Monday,10:00-11:00,4,B,120,Computer,Ms. Khan
+Monday,08:00-09:00,1,C,110,History,Mr. Ghosh
+Wednesday,12:00-01:00,5,B,105,Science,Mrs. Roy
+Friday,02:00-03:00,8,C,118,Science,Mrs. Roy
+Tuesday,11:00-12:00,6,A,110,Mathematics,Ms. Gupta
+Tuesday,03:00-04:00,10,B,105,Science,Mrs. Roy
+Friday,11:00-12:00,1,C,101,Art,Mrs. Nair
+Monday,09:00-10:00,4,A,117,Computer,Ms. Khan
+Thursday,02:00-03:00,3,C,113,Art,Mrs. Nair
+Monday,02:00-03:00,7,A,110,Art,Mrs. Nair
+Thursday,02:00-03:00,2,C,105,History,Mr. Ghosh
+Thursday,03:00-04:00,9,A,119,Physical Education,Mr. Singh
+Thursday,08:00-09:00,9,A,105,Geography,Mrs. Bose
+Wednesday,10:00-11:00,6,A,108,Art,Mrs. Nair
+Friday,03:00-04:00,7,B,105,History,Mr. Ghosh
+Thursday,02:00-03:00,7,B,118,English,Ms. Sen
+Thursday,03:00-04:00,2,C,101,English,Ms. Sen
+Tuesday,03:00-04:00,3,B,104,English,Mrs. Dutta
+Friday,12:00-01:00,7,C,108,History,Mr. Ghosh
+Monday,03:00-04:00,5,B,104,Mathematics,Ms. Gupta
+Friday,03:00-04:00,2,B,101,Geography,Mrs. Bose
+Thursday,03:00-04:00,10,C,112,Art,Mrs. Nair
+Wednesday,08:00-09:00,9,A,118,Physical Education,Mr. Singh
+Wednesday,12:00-01:00,7,C,111,Physical Education,Mr. Singh
+Wednesday,11:00-12:00,4,C,119,Science,Mr. Das
+Friday,12:00-01:00,10,B,118,Mathematics,Mr. Sharma
+Monday,08:00-09:00,5,A,120,Computer,Ms. Khan
+Wednesday,09:00-10:00,3,B,111,Geography,Mrs. Bose
+Thursday,03:00-04:00,2,A,106,History,Mr. Ghosh
+Tuesday,11:00-12:00,5,C,101,Science,Mr. Das
+Tuesday,12:00-01:00,7,C,110,Computer,Mr. Paul
+Monday,12:00-01:00,6,C,109,History,Mr. Ghosh
+Monday,02:00-03:00,2,C,105,Geography,Mrs. Bose
+Tuesday,08:00-09:00,10,C,108,Science,Mrs. Roy
+Thursday,10:00-11:00,9,A,104,English,Mrs. Dutta
+Friday,03:00-04:00,4,B,120,Science,Mrs. Roy
+Wednesday,10:00-11:00,3,C,119,Mathematics,Ms. Gupta
+Friday,09:00-10:00,4,A,103,Physical Education,Mr. Singh
+Tuesday,11:00-12:00,4,C,101,Mathematics,Mr. Sharma
+Wednesday,11:00-12:00,7,B,110,Physical Education,Mr. Singh
+Wednesday,08:00-09:00,6,B,110,History,Mr. Ghosh
+Thursday,09:00-10:00,6,C,120,Geography,Mrs. Bose
+Wednesday,09:00-10:00,3,B,106,History,Mr. Ghosh
+Monday,09:00-10:00,6,C,104,Computer,Mr. Paul
+Wednesday,11:00-12:00,8,B,105,Art,Mrs. Nair
+Thursday,09:00-10:00,7,C,112,Mathematics,Mr. Sharma
+Monday,12:00-01:00,8,A,118,Geography,Mrs. Bose
+Wednesday,12:00-01:00,4,B,109,History,Mr. Ghosh
+Monday,11:00-12:00,3,C,119,English,Mrs. Dutta
+Monday,09:00-10:00,7,A,108,Geography,Mrs. Bose
+Wednesday,12:00-01:00,3,A,114,Computer,Ms. Khan
+Thursday,11:00-12:00,2,C,112,Mathematics,Mr. Sharma
+Tuesday,12:00-01:00,10,A,120,Science,Mr. Das
+Monday,08:00-09:00,7,C,101,History,Mr. Ghosh
+Friday,09:00-10:00,10,C,102,Geography,Mrs. Bose
+Thursday,11:00-12:00,10,C,104,Computer,Ms. Khan
+Tuesday,12:00-01:00,3,C,119,Computer,Ms. Khan
+Thursday,03:00-04:00,7,C,103,Mathematics,Mr. Sharma
+Tuesday,12:00-01:00,1,A,112,Geography,Mrs. Bose
+Friday,02:00-03:00,5,C,115,Geography,Mrs. Bose
+Monday,11:00-12:00,5,B,101,Science,Mr. Das
+Monday,10:00-11:00,10,C,105,Geography,Mrs. Bose
+Tuesday,02:00-03:00,10,A,105,Mathematics,Ms. Gupta
+Tuesday,02:00-03:00,7,B,101,Geography,Mrs. Bose
+Wednesday,03:00-04:00,3,B,106,Geography,Mrs. Bose
+Wednesday,11:00-12:00,5,B,109,English,Mrs. Dutta
+Monday,09:00-10:00,10,B,112,Mathematics,Mr. Sharma
+Monday,08:00-09:00,9,B,102,Physical Education,Mr. Singh
+Thursday,03:00-04:00,2,B,119,History,Mr. Ghosh
+Monday,10:00-11:00,10,B,119,Mathematics,Ms. Gupta
+Monday,09:00-10:00,7,C,104,Geography,Mrs. Bose
+Tuesday,09:00-10:00,8,A,108,Computer,Ms. Khan
+Thursday,03:00-04:00,9,C,104,Geography,Mrs. Bose
+Wednesday,10:00-11:00,3,C,118,Computer,Ms. Khan
+Friday,08:00-09:00,4,A,104,Mathematics,Mr. Sharma
+Friday,08:00-09:00,5,C,112,English,Ms. Sen
+Thursday,11:00-12:00,4,A,104,Mathematics,Mr. Sharma
+Wednesday,10:00-11:00,7,A,116,Science,Mrs. Roy
+Thursday,11:00-12:00,6,A,117,Mathematics,Ms. Gupta
+Tuesday,11:00-12:00,2,B,101,Physical Education,Mr. Singh
+Friday,09:00-10:00,10,A,102,Science,Mrs. Roy
+Tuesday,10:00-11:00,9,A,108,Geography,Mrs. Bose
+Monday,02:00-03:00,1,A,104,History,Mr. Ghosh
+Friday,12:00-01:00,2,B,101,Computer,Ms. Khan
+Monday,10:00-11:00,6,B,111,Mathematics,Ms. Gupta
+Wednesday,08:00-09:00,3,A,120,Geography,Mrs. Bose
+Thursday,11:00-12:00,6,B,114,Mathematics,Mr. Sharma
+Friday,12:00-01:00,10,A,112,English,Ms. Sen
+Tuesday,12:00-01:00,4,B,107,Physical Education,Mr. Singh
+Tuesday,08:00-09:00,1,B,115,Geography,Mrs. Bose
+Monday,02:00-03:00,5,A,119,History,Mr. Ghosh
+Tuesday,12:00-01:00,3,A,104,Computer,Mr. Paul
+Tuesday,11:00-12:00,1,B,105,Art,Mrs. Nair
+Tuesday,10:00-11:00,8,C,117,Computer,Mr. Paul
+Wednesday,10:00-11:00,2,A,115,Physical Education,Mr. Singh
+Friday,11:00-12:00,1,C,104,History,Mr. Ghosh
+Friday,10:00-11:00,6,A,111,English,Mrs. Dutta
+Friday,09:00-10:00,2,C,102,History,Mr. Ghosh
+Thursday,03:00-04:00,1,B,119,History,Mr. Ghosh
+Wednesday,10:00-11:00,9,C,110,History,Mr. Ghosh
+Wednesday,08:00-09:00,6,B,108,Physical Education,Mr. Singh
+Thursday,11:00-12:00,4,C,108,Geography,Mrs. Bose
+Wednesday,09:00-10:00,9,B,119,Art,Mrs. Nair
+Monday,09:00-10:00,7,B,117,English,Ms. Sen
+Monday,11:00-12:00,8,B,113,Computer,Mr. Paul
+Thursday,08:00-09:00,6,B,109,Geography,Mrs. Bose
+Wednesday,02:00-03:00,6,C,109,Geography,Mrs. Bose
+Friday,11:00-12:00,10,C,107,History,Mr. Ghosh
+Tuesday,09:00-10:00,1,A,116,Physical Education,Mr. Singh
+Friday,02:00-03:00,9,B,119,English,Ms. Sen
+Wednesday,08:00-09:00,5,B,107,Science,Mrs. Roy
+Wednesday,11:00-12:00,7,A,109,Computer,Mr. Paul
+Tuesday,09:00-10:00,2,A,109,Geography,Mrs. Bose
+Friday,02:00-03:00,6,B,119,History,Mr. Ghosh
+Friday,11:00-12:00,10,C,111,Mathematics,Ms. Gupta
+Tuesday,02:00-03:00,3,C,113,Geography,Mrs. Bose
+Friday,09:00-10:00,3,A,116,Science,Mr. Das
+Tuesday,03:00-04:00,8,A,105,Science,Mrs. Roy
+Monday,12:00-01:00,7,B,103,History,Mr. Ghosh
+Friday,03:00-04:00,2,C,116,English,Mrs. Dutta
+Tuesday,08:00-09:00,7,B,106,Physical Education,Mr. Singh
+Wednesday,10:00-11:00,8,A,115,Science,Mrs. Roy
+Wednesday,03:00-04:00,8,A,107,Physical Education,Mr. Singh
+Monday,10:00-11:00,9,B,101,Science,Mrs. Roy
+Friday,08:00-09:00,5,C,107,Art,Mrs. Nair
+Thursday,11:00-12:00,1,B,113,Computer,Ms. Khan
+Thursday,08:00-09:00,10,B,101,Mathematics,Mr. Sharma
+Wednesday,03:00-04:00,9,A,117,Physical Education,Mr. Singh
+Monday,03:00-04:00,10,C,120,Computer,Mr. Paul
+Wednesday,10:00-11:00,7,C,102,English,Mrs. Dutta
+Friday,10:00-11:00,8,A,114,Physical Education,Mr. Singh
+Wednesday,11:00-12:00,5,A,114,Science,Mr. Das
+Thursday,12:00-01:00,3,A,117,Geography,Mrs. Bose
+Tuesday,09:00-10:00,8,B,118,Science,Mrs. Roy
+Monday,03:00-04:00,2,B,104,English,Mrs. Dutta
+Monday,09:00-10:00,7,A,113,Science,Mrs. Roy
+Wednesday,12:00-01:00,10,A,116,Science,Mr. Das
+Thursday,08:00-09:00,10,B,112,Computer,Mr. Paul
+Wednesday,10:00-11:00,3,C,102,History,Mr. Ghosh
+Wednesday,11:00-12:00,1,B,104,History,Mr. Ghosh
+Wednesday,12:00-01:00,9,B,119,Science,Mrs. Roy
+Friday,09:00-10:00,3,C,101,Mathematics,Mr. Sharma
+Wednesday,11:00-12:00,1,C,102,Physical Education,Mr. Singh
+Monday,08:00-09:00,10,C,103,History,Mr. Ghosh
+Tuesday,03:00-04:00,5,A,118,English,Ms. Sen
+Wednesday,10:00-11:00,2,B,120,History,Mr. Ghosh
+Wednesday,10:00-11:00,5,B,112,Science,Mrs. Roy
+Wednesday,03:00-04:00,7,B,112,Mathematics,Mr. Sharma
+Friday,10:00-11:00,8,C,102,Science,Mrs. Roy
+Thursday,03:00-04:00,1,C,115,Art,Mrs. Nair
+Wednesday,10:00-11:00,5,B,116,English,Ms. Sen
+Thursday,02:00-03:00,7,B,117,Science,Mrs. Roy
+Thursday,08:00-09:00,10,C,119,Geography,Mrs. Bose
+Monday,02:00-03:00,9,B,105,Mathematics,Mr. Sharma
+Wednesday,09:00-10:00,3,C,112,Geography,Mrs. Bose
+Monday,03:00-04:00,2,C,119,Art,Mrs. Nair
+Tuesday,03:00-04:00,7,B,106,Science,Mrs. Roy
+Tuesday,11:00-12:00,10,B,106,English,Mrs. Dutta
+Friday,08:00-09:00,5,C,106,Physical Education,Mr. Singh
+Friday,10:00-11:00,3,A,119,Computer,Mr. Paul
+Tuesday,11:00-12:00,3,B,108,Physical Education,Mr. Singh
+Tuesday,08:00-09:00,6,A,114,Physical Education,Mr. Singh
+Wednesday,10:00-11:00,10,A,102,Art,Mrs. Nair
+Wednesday,08:00-09:00,9,B,118,Mathematics,Ms. Gupta
+Wednesday,09:00-10:00,3,C,118,Art,Mrs. Nair
+Tuesday,02:00-03:00,6,C,120,Geography,Mrs. Bose
+Wednesday,08:00-09:00,10,A,116,Art,Mrs. Nair
+Wednesday,10:00-11:00,8,B,102,English,Mrs. Dutta
+Thursday,08:00-09:00,9,C,114,History,Mr. Ghosh
+Thursday,09:00-10:00,3,C,105,Art,Mrs. Nair
+Tuesday,08:00-09:00,10,C,111,Science,Mrs. Roy
+Tuesday,10:00-11:00,10,A,105,Art,Mrs. Nair
+Wednesday,12:00-01:00,5,A,120,English,Ms. Sen
+Thursday,08:00-09:00,4,C,110,History,Mr. Ghosh
+Thursday,11:00-12:00,1,B,101,Art,Mrs. Nair
+Friday,03:00-04:00,1,A,108,English,Mrs. Dutta
+Thursday,11:00-12:00,5,C,119,Mathematics,Ms. Gupta
+Tuesday,02:00-03:00,10,C,112,Science,Mrs. Roy
+Thursday,11:00-12:00,5,A,104,Art,Mrs. Nair
+Tuesday,09:00-10:00,7,A,105,Art,Mrs. Nair
+Friday,09:00-10:00,9,A,117,Science,Mrs. Roy
+Monday,09:00-10:00,9,C,109,Computer,Ms. Khan
+Thursday,12:00-01:00,6,C,114,Art,Mrs. Nair
+Monday,08:00-09:00,5,B,118,History,Mr. Ghosh
+Wednesday,08:00-09:00,9,B,116,Computer,Ms. Khan
+Friday,09:00-10:00,4,B,101,English,Ms. Sen
+Monday,02:00-03:00,9,C,116,Mathematics,Mr. Sharma
+Monday,10:00-11:00,1,C,112,Computer,Ms. Khan
+Tuesday,12:00-01:00,10,A,114,English,Mrs. Dutta
+Thursday,10:00-11:00,5,A,112,English,Ms. Sen
+Thursday,10:00-11:00,7,A,114,English,Mrs. Dutta
+Wednesday,02:00-03:00,5,B,106,English,Mrs. Dutta
+Monday,08:00-09:00,2,C,113,Physical Education,Mr. Singh
+Wednesday,02:00-03:00,10,C,102,Computer,Mr. Paul
+Wednesday,11:00-12:00,7,C,106,Computer,Ms. Khan
+Tuesday,08:00-09:00,6,A,112,Art,Mrs. Nair
+Tuesday,11:00-12:00,10,B,111,History,Mr. Ghosh
+Monday,08:00-09:00,3,A,110,Computer,Mr. Paul
+Thursday,02:00-03:00,3,C,116,Science,Mrs. Roy
+Wednesday,10:00-11:00,6,C,115,English,Mrs. Dutta
+Thursday,11:00-12:00,5,A,107,Art,Mrs. Nair
+Friday,09:00-10:00,3,B,117,English,Mrs. Dutta
+Tuesday,08:00-09:00,2,C,104,History,Mr. Ghosh
+Wednesday,09:00-10:00,5,C,102,History,Mr. Ghosh
+Thursday,02:00-03:00,3,B,107,History,Mr. Ghosh
+Friday,02:00-03:00,6,A,112,Mathematics,Ms. Gupta
+Wednesday,12:00-01:00,6,B,102,Science,Mr. Das
+Thursday,10:00-11:00,8,C,104,Science,Mrs. Roy
+Thursday,12:00-01:00,9,C,116,Computer,Mr. Paul
+Tuesday,11:00-12:00,7,C,106,Physical Education,Mr. Singh
+Tuesday,12:00-01:00,2,B,106,Mathematics,Mr. Sharma
+Monday,09:00-10:00,7,B,120,Art,Mrs. Nair
+Friday,02:00-03:00,8,B,101,Science,Mr. Das
+Monday,02:00-03:00,1,C,101,Geography,Mrs. Bose
+Wednesday,10:00-11:00,9,A,110,English,Ms. Sen
+Thursday,11:00-12:00,7,C,116,Art,Mrs. Nair
+Friday,11:00-12:00,1,B,116,Computer,Ms. Khan
+Wednesday,12:00-01:00,1,A,118,Computer,Ms. Khan
+Wednesday,11:00-12:00,7,A,114,Computer,Mr. Paul
+Friday,11:00-12:00,4,B,111,History,Mr. Ghosh
+Tuesday,03:00-04:00,4,C,119,Geography,Mrs. Bose
+Tuesday,02:00-03:00,2,C,115,Computer,Ms. Khan
+Tuesday,12:00-01:00,5,B,120,Geography,Mrs. Bose
+Thursday,12:00-01:00,7,C,104,Computer,Ms. Khan
+Monday,11:00-12:00,8,C,111,English,Mrs. Dutta
+Monday,03:00-04:00,1,A,101,History,Mr. Ghosh
+Wednesday,09:00-10:00,6,A,117,History,Mr. Ghosh
+Tuesday,11:00-12:00,6,A,102,Mathematics,Mr. Sharma
+Friday,11:00-12:00,3,A,101,Geography,Mrs. Bose
+Tuesday,11:00-12:00,4,C,108,Mathematics,Ms. Gupta
+Tuesday,10:00-11:00,6,B,102,Art,Mrs. Nair
+Thursday,09:00-10:00,7,C,113,Science,Mrs. Roy
+Monday,09:00-10:00,1,B,116,Mathematics,Ms. Gupta
+Wednesday,10:00-11:00,8,B,107,English,Mrs. Dutta
+Friday,02:00-03:00,1,C,105,Science,Mr. Das
+Monday,09:00-10:00,2,C,107,Physical Education,Mr. Singh
+Friday,09:00-10:00,8,B,116,Computer,Ms. Khan
+Monday,02:00-03:00,10,B,109,Science,Mrs. Roy
+Tuesday,02:00-03:00,2,C,110,Science,Mrs. Roy
+Friday,02:00-03:00,3,B,119,Mathematics,Mr. Sharma
+Friday,11:00-12:00,8,C,120,Science,Mrs. Roy
+Friday,03:00-04:00,6,B,115,Mathematics,Mr. Sharma
+Wednesday,09:00-10:00,5,C,108,Physical Education,Mr. Singh
+Friday,10:00-11:00,9,A,108,Art,Mrs. Nair
+Tuesday,10:00-11:00,5,C,110,Art,Mrs. Nair
+Friday,02:00-03:00,6,B,109,Mathematics,Ms. Gupta
+Monday,09:00-10:00,4,B,109,Science,Mr. Das
+Tuesday,09:00-10:00,6,A,109,Computer,Ms. Khan
+Friday,02:00-03:00,1,B,116,English,Ms. Sen
+Friday,12:00-01:00,9,C,108,English,Mrs. Dutta
+Wednesday,08:00-09:00,3,A,108,Geography,Mrs. Bose
+Friday,03:00-04:00,5,A,120,English,Ms. Sen
+Wednesday,02:00-03:00,8,C,103,Physical Education,Mr. Singh
+Friday,02:00-03:00,4,A,102,History,Mr. Ghosh
+Wednesday,11:00-12:00,3,C,111,Art,Mrs. Nair
+Tuesday,10:00-11:00,7,A,106,Mathematics,Mr. Sharma
+Monday,11:00-12:00,10,B,117,Physical Education,Mr. Singh
+Friday,08:00-09:00,1,A,105,English,Mrs. Dutta
+Thursday,03:00-04:00,6,C,106,Art,Mrs. Nair
+Monday,02:00-03:00,10,B,109,English,Ms. Sen
+Tuesday,10:00-11:00,4,B,115,History,Mr. Ghosh
+Friday,09:00-10:00,9,C,114,Mathematics,Ms. Gupta
+Friday,10:00-11:00,3,C,107,Science,Mrs. Roy
+Monday,12:00-01:00,5,C,103,Geography,Mrs. Bose
+Friday,11:00-12:00,1,B,108,Art,Mrs. Nair
+Tuesday,03:00-04:00,9,A,107,Geography,Mrs. Bose
+Friday,12:00-01:00,8,C,104,Science,Mr. Das
+Friday,09:00-10:00,9,A,102,Geography,Mrs. Bose
+Thursday,12:00-01:00,8,C,119,English,Mrs. Dutta
+Wednesday,11:00-12:00,2,A,118,Geography,Mrs. Bose
+Wednesday,10:00-11:00,4,B,107,History,Mr. Ghosh
+Tuesday,12:00-01:00,7,A,108,Geography,Mrs. Bose
+Monday,02:00-03:00,7,C,115,Physical Education,Mr. Singh
+Thursday,11:00-12:00,8,C,101,Geography,Mrs. Bose
+Wednesday,03:00-04:00,9,C,107,History,Mr. Ghosh
+Monday,02:00-03:00,1,B,114,Art,Mrs. Nair
+Wednesday,03:00-04:00,8,B,106,Physical Education,Mr. Singh
+Thursday,09:00-10:00,6,C,114,Mathematics,Mr. Sharma
+Tuesday,08:00-09:00,1,A,120,Physical Education,Mr. Singh
+Tuesday,08:00-09:00,1,B,120,Geography,Mrs. Bose
+Tuesday,09:00-10:00,9,C,117,Science,Mr. Das
+Thursday,03:00-04:00,3,C,113,History,Mr. Ghosh
+Friday,11:00-12:00,5,A,116,Science,Mrs. Roy
+Friday,08:00-09:00,5,B,113,Physical Education,Mr. Singh
+Wednesday,11:00-12:00,3,C,102,Computer,Ms. Khan
+Monday,09:00-10:00,2,B,115,Science,Mrs. Roy
+Monday,11:00-12:00,1,C,110,History,Mr. Ghosh
+Monday,02:00-03:00,4,C,112,Physical Education,Mr. Singh
+Thursday,11:00-12:00,7,B,116,Science,Mr. Das
+Monday,08:00-09:00,5,A,102,History,Mr. Ghosh
+Wednesday,10:00-11:00,10,A,110,Physical Education,Mr. Singh
+Friday,08:00-09:00,8,C,116,Physical Education,Mr. Singh
+Monday,02:00-03:00,3,B,107,Physical Education,Mr. Singh
+Wednesday,11:00-12:00,5,A,106,Physical Education,Mr. Singh
+Thursday,09:00-10:00,1,C,106,Computer,Mr. Paul
+Friday,12:00-01:00,3,A,108,Mathematics,Mr. Sharma
+Friday,03:00-04:00,9,A,114,History,Mr. Ghosh
+Monday,12:00-01:00,3,A,112,History,Mr. Ghosh
+Thursday,10:00-11:00,7,C,108,Physical Education,Mr. Singh
+Monday,03:00-04:00,2,A,104,Computer,Ms. Khan
+Wednesday,09:00-10:00,6,B,102,Science,Mr. Das
+Friday,12:00-01:00,10,A,104,Geography,Mrs. Bose
+Thursday,10:00-11:00,8,B,114,Physical Education,Mr. Singh
+Thursday,02:00-03:00,7,C,102,Art,Mrs. Nair
+Wednesday,12:00-01:00,4,C,108,Geography,Mrs. Bose
+Tuesday,12:00-01:00,6,A,106,Mathematics,Ms. Gupta
+Thursday,12:00-01:00,9,B,112,English,Mrs. Dutta
+Monday,08:00-09:00,6,B,101,Art,Mrs. Nair
+Thursday,11:00-12:00,1,A,114,History,Mr. Ghosh
+Friday,09:00-10:00,2,C,115,Art,Mrs. Nair
+Monday,12:00-01:00,6,C,106,History,Mr. Ghosh
+Tuesday,09:00-10:00,3,C,115,Geography,Mrs. Bose
+Wednesday,02:00-03:00,1,A,116,Art,Mrs. Nair
+Thursday,03:00-04:00,1,B,104,Computer,Ms. Khan
+Monday,02:00-03:00,1,B,119,Mathematics,Mr. Sharma
+Tuesday,09:00-10:00,10,C,113,Physical Education,Mr. Singh
+Monday,08:00-09:00,10,A,104,Physical Education,Mr. Singh
+Tuesday,08:00-09:00,7,B,107,English,Mrs. Dutta
+Tuesday,11:00-12:00,1,A,102,Mathematics,Ms. Gupta
+Thursday,03:00-04:00,3,A,113,Computer,Mr. Paul
+Friday,09:00-10:00,10,C,119,English,Mrs. Dutta
+Monday,09:00-10:00,1,B,109,Mathematics,Mr. Sharma
+Thursday,03:00-04:00,10,A,115,Computer,Ms. Khan
+Wednesday,12:00-01:00,3,A,119,Art,Mrs. Nair
+Friday,12:00-01:00,4,A,120,English,Ms. Sen
+Wednesday,09:00-10:00,4,B,107,Mathematics,Mr. Sharma
+Tuesday,03:00-04:00,7,A,112,Art,Mrs. Nair
+Tuesday,12:00-01:00,8,C,117,Science,Mrs. Roy
+Wednesday,02:00-03:00,1,A,119,History,Mr. Ghosh
+Monday,09:00-10:00,2,C,101,English,Ms. Sen
+Thursday,09:00-10:00,1,C,111,Science,Mr. Das
+Thursday,11:00-12:00,1,C,114,English,Ms. Sen
+Tuesday,12:00-01:00,3,C,104,History,Mr. Ghosh
+Friday,08:00-09:00,3,C,113,Science,Mrs. Roy
+Wednesday,10:00-11:00,5,B,115,History,Mr. Ghosh
+Tuesday,11:00-12:00,10,C,120,Mathematics,Ms. Gupta
+Friday,11:00-12:00,10,B,108,Computer,Ms. Khan
+Wednesday,12:00-01:00,1,A,110,Science,Mrs. Roy
+Wednesday,03:00-04:00,3,B,104,Computer,Mr. Paul
+Friday,09:00-10:00,5,A,117,Geography,Mrs. Bose
+Friday,11:00-12:00,5,B,110,Geography,Mrs. Bose
+Monday,11:00-12:00,2,B,106,Physical Education,Mr. Singh
+Thursday,12:00-01:00,2,B,118,Mathematics,Mr. Sharma
+Friday,08:00-09:00,3,B,115,Geography,Mrs. Bose
+Thursday,03:00-04:00,2,B,106,Mathematics,Mr. Sharma
+Thursday,03:00-04:00,3,C,109,Physical Education,Mr. Singh
+Thursday,09:00-10:00,4,A,108,History,Mr. Ghosh
+Wednesday,08:00-09:00,7,A,101,Mathematics,Ms. Gupta
+Thursday,03:00-04:00,7,B,113,Computer,Mr. Paul
+Thursday,02:00-03:00,8,B,110,Art,Mrs. Nair
+Monday,10:00-11:00,3,C,115,Science,Mrs. Roy
+Thursday,11:00-12:00,1,B,115,History,Mr. Ghosh
+Monday,09:00-10:00,2,C,118,Art,Mrs. Nair
+Tuesday,03:00-04:00,1,B,117,Mathematics,Ms. Gupta
+Thursday,03:00-04:00,5,C,107,History,Mr. Ghosh
+Thursday,02:00-03:00,2,B,110,Geography,Mrs. Bose
+Friday,08:00-09:00,9,A,103,English,Ms. Sen
+Tuesday,03:00-04:00,5,B,119,Physical Education,Mr. Singh
+Thursday,02:00-03:00,8,C,115,Science,Mrs. Roy
+Tuesday,10:00-11:00,10,C,113,Art,Mrs. Nair
+Tuesday,03:00-04:00,4,B,113,Art,Mrs. Nair
+Wednesday,11:00-12:00,8,C,119,Mathematics,Mr. Sharma
+Wednesday,10:00-11:00,9,B,113,Art,Mrs. Nair
+Wednesday,09:00-10:00,8,A,117,Computer,Mr. Paul
+Wednesday,02:00-03:00,4,A,114,Science,Mrs. Roy
+Tuesday,10:00-11:00,4,C,103,Geography,Mrs. Bose
+Tuesday,08:00-09:00,9,B,106,History,Mr. Ghosh
+Tuesday,08:00-09:00,4,A,112,Physical Education,Mr. Singh
+Monday,03:00-04:00,7,C,115,Geography,Mrs. Bose
+Tuesday,03:00-04:00,5,B,101,Physical Education,Mr. Singh
+Tuesday,02:00-03:00,9,C,116,History,Mr. Ghosh
+Monday,11:00-12:00,7,A,104,Physical Education,Mr. Singh
+Thursday,08:00-09:00,10,C,105,Art,Mrs. Nair
+Wednesday,12:00-01:00,4,B,116,Art,Mrs. Nair
+Friday,09:00-10:00,9,B,109,English,Mrs. Dutta
+Wednesday,10:00-11:00,1,B,108,Geography,Mrs. Bose
+Thursday,03:00-04:00,6,A,104,Computer,Ms. Khan
+Thursday,11:00-12:00,4,B,104,Geography,Mrs. Bose
+Friday,10:00-11:00,4,C,115,Computer,Ms. Khan
+Friday,03:00-04:00,5,C,118,Science,Mrs. Roy
+Wednesday,11:00-12:00,2,C,106,Art,Mrs. Nair
+Wednesday,12:00-01:00,7,A,107,Mathematics,Mr. Sharma
+Thursday,10:00-11:00,7,C,106,Science,Mr. Das
+Thursday,03:00-04:00,1,C,110,Physical Education,Mr. Singh
+Thursday,10:00-11:00,1,B,120,Mathematics,Mr. Sharma
+Thursday,02:00-03:00,9,A,113,Science,Mr. Das
+Wednesday,10:00-11:00,9,B,103,Geography,Mrs. Bose
+Wednesday,02:00-03:00,3,A,106,Art,Mrs. Nair
+Friday,09:00-10:00,1,B,116,English,Ms. Sen
+Wednesday,03:00-04:00,6,C,119,History,Mr. Ghosh
+Wednesday,08:00-09:00,2,B,106,English,Mrs. Dutta
+Monday,02:00-03:00,6,B,116,History,Mr. Ghosh
+Thursday,12:00-01:00,1,C,118,Computer,Ms. Khan
+Tuesday,02:00-03:00,6,C,117,Science,Mrs. Roy
+Friday,08:00-09:00,6,C,108,History,Mr. Ghosh
+Monday,11:00-12:00,10,A,118,Physical Education,Mr. Singh
+Tuesday,02:00-03:00,2,C,114,Mathematics,Ms. Gupta
+Monday,10:00-11:00,10,C,116,English,Ms. Sen
+Thursday,11:00-12:00,5,B,119,English,Mrs. Dutta
+Wednesday,12:00-01:00,6,C,116,Computer,Mr. Paul
+Friday,03:00-04:00,8,A,118,Mathematics,Ms. Gupta
+Thursday,10:00-11:00,5,B,120,Geography,Mrs. Bose
+Friday,12:00-01:00,3,A,111,Science,Mrs. Roy
+Wednesday,03:00-04:00,7,A,105,Physical Education,Mr. Singh
+Monday,03:00-04:00,10,C,113,English,Ms. Sen
+Monday,12:00-01:00,1,A,118,Geography,Mrs. Bose
+Tuesday,10:00-11:00,10,A,118,English,Ms. Sen
+Tuesday,11:00-12:00,7,A,117,Science,Mrs. Roy
+Wednesday,03:00-04:00,8,A,119,Geography,Mrs. Bose
+Monday,12:00-01:00,8,B,104,Geography,Mrs. Bose
+Tuesday,11:00-12:00,1,C,117,Science,Mrs. Roy
+Tuesday,02:00-03:00,3,B,111,Geography,Mrs. Bose
+Wednesday,09:00-10:00,9,C,110,Science,Mrs. Roy
+Monday,03:00-04:00,5,C,103,Physical Education,Mr. Singh
+Monday,03:00-04:00,6,A,111,Art,Mrs. Nair
+Wednesday,03:00-04:00,9,A,108,Physical Education,Mr. Singh
+Tuesday,10:00-11:00,1,C,119,Science,Mrs. Roy
+Wednesday,12:00-01:00,2,B,116,Mathematics,Ms. Gupta
+Tuesday,09:00-10:00,7,A,110,English,Mrs. Dutta
+Thursday,03:00-04:00,7,B,111,Mathematics,Ms. Gupta
+Tuesday,02:00-03:00,2,A,107,History,Mr. Ghosh
+Friday,02:00-03:00,10,A,109,English,Mrs. Dutta
+Tuesday,11:00-12:00,8,C,109,Mathematics,Mr. Sharma
+Friday,11:00-12:00,10,A,105,Art,Mrs. Nair
+Tuesday,02:00-03:00,8,A,111,Science,Mrs. Roy
+Thursday,03:00-04:00,2,C,120,Physical Education,Mr. Singh
+Monday,12:00-01:00,3,B,115,Geography,Mrs. Bose
+Wednesday,03:00-04:00,1,A,120,Geography,Mrs. Bose
+Wednesday,12:00-01:00,3,A,109,Physical Education,Mr. Singh
+Tuesday,11:00-12:00,2,B,105,Geography,Mrs. Bose
+Tuesday,09:00-10:00,5,C,113,Art,Mrs. Nair
+Monday,11:00-12:00,4,B,106,History,Mr. Ghosh
+Wednesday,10:00-11:00,7,A,101,English,Mrs. Dutta
+Wednesday,02:00-03:00,7,C,112,Computer,Ms. Khan
+Thursday,08:00-09:00,4,C,105,Physical Education,Mr. Singh
+Monday,10:00-11:00,6,A,112,Art,Mrs. Nair
+Friday,11:00-12:00,4,C,110,History,Mr. Ghosh
+Thursday,09:00-10:00,5,C,101,Computer,Ms. Khan
+Friday,09:00-10:00,10,B,110,Mathematics,Ms. Gupta
+Friday,12:00-01:00,9,C,106,History,Mr. Ghosh
+Wednesday,08:00-09:00,2,A,116,English,Mrs. Dutta
+Thursday,10:00-11:00,10,A,113,Mathematics,Mr. Sharma
+Friday,12:00-01:00,9,A,103,English,Ms. Sen
+Wednesday,08:00-09:00,9,C,103,History,Mr. Ghosh
+Wednesday,12:00-01:00,10,B,110,Mathematics,Ms. Gupta
+Wednesday,02:00-03:00,5,A,104,Art,Mrs. Nair
+Tuesday,08:00-09:00,3,B,118,English,Ms. Sen
+Friday,03:00-04:00,1,A,104,Science,Mrs. Roy
+Friday,10:00-11:00,10,C,107,History,Mr. Ghosh
+Thursday,10:00-11:00,2,C,109,History,Mr. Ghosh
+Tuesday,10:00-11:00,4,A,106,Geography,Mrs. Bose
+Wednesday,08:00-09:00,10,A,118,Physical Education,Mr. Singh
+Thursday,12:00-01:00,2,A,103,Art,Mrs. Nair
+Thursday,09:00-10:00,3,C,112,Art,Mrs. Nair
+Tuesday,02:00-03:00,4,C,113,History,Mr. Ghosh
+Tuesday,03:00-04:00,2,C,116,Physical Education,Mr. Singh
+Wednesday,03:00-04:00,9,B,101,Mathematics,Mr. Sharma
+Monday,11:00-12:00,10,C,114,Computer,Mr. Paul
+Thursday,03:00-04:00,9,C,118,Geography,Mrs. Bose
+Thursday,03:00-04:00,7,C,104,Science,Mrs. Roy
+Tuesday,11:00-12:00,5,C,109,Art,Mrs. Nair
+Thursday,10:00-11:00,5,B,119,Art,Mrs. Nair
+Friday,03:00-04:00,6,A,111,History,Mr. Ghosh
+Wednesday,11:00-12:00,3,C,105,Science,Mrs. Roy
+Monday,12:00-01:00,9,C,107,Art,Mrs. Nair
+Monday,12:00-01:00,10,A,118,Computer,Ms. Khan
+Friday,08:00-09:00,10,B,116,Science,Mrs. Roy
+Monday,10:00-11:00,5,A,120,Mathematics,Ms. Gupta
+Wednesday,08:00-09:00,4,A,119,Geography,Mrs. Bose
+Monday,10:00-11:00,2,C,116,Physical Education,Mr. Singh
+Tuesday,02:00-03:00,6,C,108,Mathematics,Ms. Gupta
+Friday,08:00-09:00,9,C,113,Physical Education,Mr. Singh
+Friday,09:00-10:00,10,A,114,Geography,Mrs. Bose
+Monday,10:00-11:00,2,C,103,Science,Mrs. Roy
+Wednesday,10:00-11:00,5,B,117,Computer,Ms. Khan
+Tuesday,02:00-03:00,1,B,119,Science,Mr. Das
+Thursday,03:00-04:00,2,C,104,Science,Mrs. Roy
+Tuesday,03:00-04:00,6,A,111,Geography,Mrs. Bose
+Thursday,02:00-03:00,5,C,108,Science,Mr. Das
+Monday,10:00-11:00,3,C,110,Geography,Mrs. Bose
+Monday,09:00-10:00,6,B,101,English,Ms. Sen
+Tuesday,03:00-04:00,10,A,115,Computer,Mr. Paul
+Thursday,10:00-11:00,9,B,116,History,Mr. Ghosh
+Friday,02:00-03:00,6,A,101,Physical Education,Mr. Singh
+Wednesday,11:00-12:00,1,A,109,Geography,Mrs. Bose
+Friday,02:00-03:00,4,A,101,History,Mr. Ghosh
+Thursday,08:00-09:00,8,A,118,Art,Mrs. Nair
+Tuesday,11:00-12:00,6,A,111,Science,Mrs. Roy
+Friday,12:00-01:00,2,C,120,Physical Education,Mr. Singh
+Monday,03:00-04:00,5,C,103,Computer,Ms. Khan
+Friday,02:00-03:00,10,A,113,Art,Mrs. Nair
+Wednesday,12:00-01:00,10,B,111,Art,Mrs. Nair
+Thursday,09:00-10:00,2,A,108,Geography,Mrs. Bose
+Thursday,09:00-10:00,6,B,109,Mathematics,Ms. Gupta
+Thursday,09:00-10:00,5,B,113,English,Ms. Sen
+Thursday,08:00-09:00,4,C,111,Art,Mrs. Nair
+Thursday,09:00-10:00,10,C,110,History,Mr. Ghosh
+Monday,02:00-03:00,7,A,110,English,Ms. Sen
+Monday,10:00-11:00,7,C,105,Geography,Mrs. Bose
+Tuesday,02:00-03:00,8,A,106,Science,Mrs. Roy
+Friday,11:00-12:00,1,B,110,Physical Education,Mr. Singh
+Thursday,09:00-10:00,1,B,103,Science,Mrs. Roy
+Thursday,12:00-01:00,10,C,113,Physical Education,Mr. Singh
+Tuesday,08:00-09:00,6,B,119,Physical Education,Mr. Singh
+Monday,02:00-03:00,3,A,104,Physical Education,Mr. Singh
+Monday,10:00-11:00,9,C,110,Mathematics,Ms. Gupta
+Monday,11:00-12:00,2,C,117,English,Mrs. Dutta
+Wednesday,12:00-01:00,7,B,104,Art,Mrs. Nair
+Friday,11:00-12:00,9,A,113,Geography,Mrs. Bose
+Thursday,02:00-03:00,2,A,120,History,Mr. Ghosh
+Friday,03:00-04:00,7,C,108,Art,Mrs. Nair
+Tuesday,03:00-04:00,7,C,104,Mathematics,Mr. Sharma
+Tuesday,03:00-04:00,6,C,119,History,Mr. Ghosh
+Tuesday,10:00-11:00,7,A,113,English,Ms. Sen
+Monday,12:00-01:00,2,B,101,English,Ms. Sen
+Wednesday,03:00-04:00,6,B,108,Mathematics,Mr. Sharma
+Tuesday,12:00-01:00,7,B,103,Art,Mrs. Nair
+Thursday,11:00-12:00,7,A,117,Art,Mrs. Nair
+Tuesday,10:00-11:00,6,B,112,Science,Mrs. Roy
+Tuesday,10:00-11:00,1,B,107,History,Mr. Ghosh
+Tuesday,09:00-10:00,2,C,117,Physical Education,Mr. Singh
+Monday,03:00-04:00,6,A,120,Art,Mrs. Nair
+Tuesday,10:00-11:00,3,A,103,Science,Mrs. Roy
+Friday,08:00-09:00,10,C,109,English,Ms. Sen
+Monday,11:00-12:00,5,B,109,English,Mrs. Dutta
+Monday,12:00-01:00,6,C,107,Mathematics,Ms. Gupta
+Thursday,11:00-12:00,9,B,112,Science,Mrs. Roy
+Tuesday,12:00-01:00,9,A,102,Physical Education,Mr. Singh
+Monday,10:00-11:00,1,A,103,Science,Mr. Das
+Friday,10:00-11:00,5,A,108,Computer,Mr. Paul
+Friday,03:00-04:00,8,C,103,Computer,Mr. Paul
+Thursday,10:00-11:00,7,A,117,Geography,Mrs. Bose
+Friday,03:00-04:00,4,A,106,Mathematics,Mr. Sharma
+Tuesday,08:00-09:00,1,B,111,Computer,Ms. Khan
+Monday,08:00-09:00,9,B,119,Geography,Mrs. Bose
+Tuesday,03:00-04:00,4,B,106,Computer,Mr. Paul
+Tuesday,03:00-04:00,8,B,104,Computer,Ms. Khan
+Wednesday,09:00-10:00,5,A,106,Mathematics,Ms. Gupta
+Tuesday,08:00-09:00,2,C,107,Mathematics,Ms. Gupta
+Friday,11:00-12:00,3,C,112,Geography,Mrs. Bose
+Wednesday,03:00-04:00,2,B,102,History,Mr. Ghosh
+Thursday,11:00-12:00,10,B,110,English,Mrs. Dutta
+Tuesday,08:00-09:00,4,A,114,Physical Education,Mr. Singh
+Wednesday,08:00-09:00,3,A,107,Physical Education,Mr. Singh
+Thursday,09:00-10:00,9,A,118,History,Mr. Ghosh
+Wednesday,08:00-09:00,6,C,105,Computer,Mr. Paul
+Monday,09:00-10:00,7,B,115,Computer,Mr. Paul
+Monday,03:00-04:00,1,B,108,English,Mrs. Dutta
+Tuesday,10:00-11:00,2,A,106,Geography,Mrs. Bose
+Thursday,11:00-12:00,6,C,104,English,Mrs. Dutta
+Tuesday,12:00-01:00,5,B,109,Mathematics,Mr. Sharma
+Tuesday,09:00-10:00,4,A,116,Mathematics,Mr. Sharma
+Friday,08:00-09:00,3,A,109,Science,Mrs. Roy
+Friday,02:00-03:00,7,C,114,English,Mrs. Dutta
+Friday,11:00-12:00,10,A,103,Science,Mrs. Roy
+Thursday,03:00-04:00,3,A,103,English,Mrs. Dutta
+Wednesday,02:00-03:00,8,A,118,English,Ms. Sen
+Monday,02:00-03:00,9,B,110,Science,Mr. Das
+Monday,12:00-01:00,6,A,112,Geography,Mrs. Bose
+Monday,10:00-11:00,10,B,120,Computer,Ms. Khan
+Thursday,02:00-03:00,2,B,114,Science,Mrs. Roy
+Friday,09:00-10:00,10,C,113,English,Ms. Sen
+Thursday,08:00-09:00,10,B,111,Art,Mrs. Nair
+Thursday,09:00-10:00,6,B,103,Physical Education,Mr. Singh
+Monday,02:00-03:00,3,C,112,Computer,Ms. Khan
+Monday,02:00-03:00,3,A,117,Geography,Mrs. Bose
+Tuesday,08:00-09:00,3,C,103,Computer,Mr. Paul
+Wednesday,08:00-09:00,10,C,115,Physical Education,Mr. Singh
+Tuesday,08:00-09:00,6,A,107,Art,Mrs. Nair
+Friday,12:00-01:00,9,A,101,Art,Mrs. Nair
+Wednesday,08:00-09:00,10,C,118,Geography,Mrs. Bose
+Tuesday,10:00-11:00,2,A,108,Computer,Mr. Paul
+Wednesday,09:00-10:00,3,A,116,Physical Education,Mr. Singh
+Wednesday,12:00-01:00,9,C,118,Geography,Mrs. Bose
+Friday,11:00-12:00,1,C,117,Mathematics,Mr. Sharma
+Wednesday,12:00-01:00,9,C,103,Mathematics,Mr. Sharma
+Monday,03:00-04:00,6,C,102,Geography,Mrs. Bose
+Tuesday,11:00-12:00,7,A,116,Geography,Mrs. Bose
+Friday,11:00-12:00,7,A,103,Geography,Mrs. Bose
+Tuesday,10:00-11:00,10,A,110,Science,Mrs. Roy
+Monday,08:00-09:00,9,C,120,History,Mr. Ghosh
+Wednesday,03:00-04:00,8,C,118,Mathematics,Ms. Gupta
+Thursday,08:00-09:00,4,B,114,Geography,Mrs. Bose
+Tuesday,09:00-10:00,5,B,119,Art,Mrs. Nair
+Monday,10:00-11:00,3,C,101,Geography,Mrs. Bose
+Wednesday,10:00-11:00,10,C,102,English,Mrs. Dutta
+Friday,11:00-12:00,5,B,105,Physical Education,Mr. Singh
+Tuesday,12:00-01:00,5,B,110,Science,Mrs. Roy
+Wednesday,03:00-04:00,3,B,102,Mathematics,Mr. Sharma
+Thursday,10:00-11:00,9,B,118,Geography,Mrs. Bose
+Tuesday,08:00-09:00,10,A,112,History,Mr. Ghosh
+Wednesday,08:00-09:00,3,B,106,Mathematics,Ms. Gupta
+Tuesday,02:00-03:00,3,C,107,Geography,Mrs. Bose
+Tuesday,08:00-09:00,10,C,117,Art,Mrs. Nair
+Friday,10:00-11:00,1,A,107,Mathematics,Mr. Sharma
+Friday,02:00-03:00,5,C,106,Geography,Mrs. Bose
+Monday,08:00-09:00,9,A,115,Science,Mr. Das
+Friday,10:00-11:00,8,C,105,Science,Mr. Das
+Tuesday,11:00-12:00,1,B,104,Physical Education,Mr. Singh
+Thursday,11:00-12:00,3,B,111,English,Mrs. Dutta
+Tuesday,10:00-11:00,1,A,112,Art,Mrs. Nair
+Wednesday,09:00-10:00,2,C,111,History,Mr. Ghosh
+Friday,11:00-12:00,8,A,107,History,Mr. Ghosh
+Friday,11:00-12:00,9,A,114,Art,Mrs. Nair
+Friday,02:00-03:00,1,C,102,Geography,Mrs. Bose
+Wednesday,11:00-12:00,8,A,109,Mathematics,Mr. Sharma
+Friday,08:00-09:00,1,C,106,Computer,Mr. Paul
+Thursday,08:00-09:00,9,B,111,Science,Mrs. Roy
+Tuesday,08:00-09:00,7,A,106,Science,Mr. Das
+Wednesday,03:00-04:00,5,A,101,Computer,Mr. Paul
+Monday,10:00-11:00,1,B,105,Computer,Ms. Khan
+Monday,08:00-09:00,7,A,105,Mathematics,Mr. Sharma
+Thursday,02:00-03:00,1,B,111,Art,Mrs. Nair
+Tuesday,10:00-11:00,1,B,101,Geography,Mrs. Bose
+Wednesday,08:00-09:00,1,B,109,Mathematics,Ms. Gupta
+Wednesday,09:00-10:00,6,C,103,Geography,Mrs. Bose
+Thursday,11:00-12:00,5,A,109,English,Ms. Sen
+Monday,03:00-04:00,1,B,119,History,Mr. Ghosh
+Thursday,10:00-11:00,7,A,106,Computer,Mr. Paul
+Friday,10:00-11:00,3,A,115,Physical Education,Mr. Singh
+Monday,09:00-10:00,10,C,101,Computer,Ms. Khan
+Monday,02:00-03:00,5,B,108,Science,Mr. Das
+Thursday,10:00-11:00,1,C,115,English,Ms. Sen
+Tuesday,08:00-09:00,10,C,113,Physical Education,Mr. Singh
+Thursday,03:00-04:00,9,B,112,Geography,Mrs. Bose
+Thursday,02:00-03:00,10,B,106,Science,Mrs. Roy
+Monday,09:00-10:00,4,B,113,Computer,Mr. Paul
+Thursday,03:00-04:00,2,C,115,Computer,Ms. Khan
+Wednesday,09:00-10:00,6,A,101,Mathematics,Mr. Sharma
+Wednesday,10:00-11:00,4,B,109,Computer,Ms. Khan
+Friday,12:00-01:00,8,C,115,Mathematics,Ms. Gupta
+Thursday,10:00-11:00,5,A,109,Physical Education,Mr. Singh
+Wednesday,09:00-10:00,5,A,107,English,Mrs. Dutta
+Wednesday,03:00-04:00,7,C,118,Science,Mrs. Roy
+Tuesday,03:00-04:00,10,C,119,Geography,Mrs. Bose
+Monday,11:00-12:00,2,B,110,Physical Education,Mr. Singh
+Friday,11:00-12:00,5,B,101,Physical Education,Mr. Singh
+Monday,11:00-12:00,7,C,102,Mathematics,Mr. Sharma
+Tuesday,12:00-01:00,3,B,119,Science,Mrs. Roy
+Friday,10:00-11:00,1,A,116,Mathematics,Ms. Gupta
+Friday,03:00-04:00,4,B,109,Art,Mrs. Nair
+Thursday,08:00-09:00,4,B,113,History,Mr. Ghosh
+Monday,03:00-04:00,6,B,104,Art,Mrs. Nair
+Thursday,03:00-04:00,2,A,112,Art,Mrs. Nair
+Thursday,09:00-10:00,7,C,113,Mathematics,Mr. Sharma
+Monday,10:00-11:00,2,B,120,Art,Mrs. Nair
+Friday,10:00-11:00,10,B,106,Mathematics,Mr. Sharma
+Wednesday,08:00-09:00,2,B,115,Mathematics,Ms. Gupta
+Thursday,08:00-09:00,7,B,105,Science,Mr. Das
+Wednesday,03:00-04:00,6,A,104,Mathematics,Mr. Sharma
+Thursday,02:00-03:00,2,A,101,Science,Mr. Das
+Thursday,12:00-01:00,10,A,102,Science,Mrs. Roy
+Friday,08:00-09:00,4,A,114,Geography,Mrs. Bose
+Friday,08:00-09:00,9,B,108,Mathematics,Mr. Sharma
+Monday,10:00-11:00,7,A,103,Art,Mrs. Nair
+Friday,10:00-11:00,10,B,103,Physical Education,Mr. Singh
+Tuesday,12:00-01:00,8,B,113,Science,Mrs. Roy
+Friday,12:00-01:00,7,C,116,Physical Education,Mr. Singh
+Monday,12:00-01:00,2,B,110,Mathematics,Ms. Gupta
+Wednesday,02:00-03:00,3,C,116,Computer,Mr. Paul
+Friday,02:00-03:00,4,A,107,Science,Mr. Das
+Tuesday,12:00-01:00,2,C,106,Geography,Mrs. Bose
+Tuesday,02:00-03:00,3,C,120,English,Mrs. Dutta
+Monday,12:00-01:00,8,B,102,Geography,Mrs. Bose
+Tuesday,12:00-01:00,10,A,105,English,Mrs. Dutta
+Tuesday,10:00-11:00,3,B,102,History,Mr. Ghosh
+Tuesday,12:00-01:00,9,B,108,Computer,Ms. Khan
+Friday,11:00-12:00,3,C,113,English,Mrs. Dutta
+Friday,02:00-03:00,1,C,101,Science,Mr. Das
+Tuesday,02:00-03:00,10,A,118,English,Mrs. Dutta
+Wednesday,02:00-03:00,6,B,118,Mathematics,Mr. Sharma
+Thursday,03:00-04:00,7,B,114,Physical Education,Mr. Singh
+Thursday,12:00-01:00,3,C,107,Mathematics,Mr. Sharma
+Thursday,11:00-12:00,7,A,109,Mathematics,Mr. Sharma
+Monday,09:00-10:00,8,C,114,Computer,Ms. Khan
+Friday,11:00-12:00,3,A,110,English,Ms. Sen
+Thursday,11:00-12:00,8,A,112,English,Mrs. Dutta
+Thursday,03:00-04:00,6,A,103,Computer,Mr. Paul
+Monday,09:00-10:00,4,A,110,Physical Education,Mr. Singh
+Monday,11:00-12:00,9,A,101,Physical Education,Mr. Singh
+Friday,11:00-12:00,10,B,111,Physical Education,Mr. Singh
+Thursday,11:00-12:00,10,A,119,Art,Mrs. Nair
+Thursday,10:00-11:00,5,B,107,Mathematics,Mr. Sharma
+Thursday,10:00-11:00,1,C,119,Science,Mrs. Roy
+Friday,09:00-10:00,3,A,105,Mathematics,Mr. Sharma
+Thursday,02:00-03:00,6,B,112,Mathematics,Ms. Gupta
+Friday,10:00-11:00,8,B,111,Physical Education,Mr. Singh
+Wednesday,08:00-09:00,3,A,118,Art,Mrs. Nair
+Tuesday,12:00-01:00,9,B,102,History,Mr. Ghosh
+Wednesday,11:00-12:00,2,A,108,Physical Education,Mr. Singh
+Wednesday,08:00-09:00,4,C,110,Geography,Mrs. Bose
+Wednesday,02:00-03:00,10,A,110,History,Mr. Ghosh
+Tuesday,02:00-03:00,5,B,110,Mathematics,Mr. Sharma
+Tuesday,11:00-12:00,5,B,102,Mathematics,Mr. Sharma
+Thursday,12:00-01:00,9,B,104,Geography,Mrs. Bose
+Thursday,09:00-10:00,5,C,116,English,Mrs. Dutta
+Thursday,12:00-01:00,9,C,115,Physical Education,Mr. Singh
+Tuesday,03:00-04:00,4,A,115,Mathematics,Mr. Sharma
+Friday,11:00-12:00,1,C,115,Physical Education,Mr. Singh
+Thursday,12:00-01:00,4,B,103,Geography,Mrs. Bose
+Thursday,12:00-01:00,7,A,111,Physical Education,Mr. Singh
+Thursday,10:00-11:00,5,C,120,History,Mr. Ghosh
+Friday,03:00-04:00,2,A,108,Computer,Ms. Khan
+Thursday,12:00-01:00,5,A,109,Computer,Ms. Khan
+Tuesday,02:00-03:00,10,A,109,Physical Education,Mr. Singh
+Monday,03:00-04:00,7,C,108,Computer,Ms. Khan
+Monday,02:00-03:00,3,C,113,Mathematics,Ms. Gupta
+Friday,03:00-04:00,8,C,105,Computer,Ms. Khan
+Friday,09:00-10:00,3,B,106,Mathematics,Mr. Sharma
+Thursday,12:00-01:00,7,C,106,Computer,Ms. Khan
+Tuesday,08:00-09:00,8,B,101,Computer,Ms. Khan
+Wednesday,02:00-03:00,2,B,112,Mathematics,Ms. Gupta
+Thursday,10:00-11:00,3,B,112,Geography,Mrs. Bose
+Tuesday,10:00-11:00,8,B,112,Computer,Mr. Paul
+Thursday,12:00-01:00,8,A,108,Science,Mrs. Roy
+Wednesday,02:00-03:00,4,B,118,Science,Mr. Das
+Wednesday,11:00-12:00,2,C,112,Science,Mr. Das
+Monday,12:00-01:00,10,A,103,Art,Mrs. Nair
+Thursday,10:00-11:00,7,C,113,English,Ms. Sen
+Thursday,03:00-04:00,10,B,111,History,Mr. Ghosh
+Tuesday,08:00-09:00,8,C,119,Geography,Mrs. Bose
+Wednesday,10:00-11:00,6,A,111,Science,Mr. Das
+Monday,08:00-09:00,6,C,116,Computer,Ms. Khan
+Tuesday,08:00-09:00,8,A,101,Geography,Mrs. Bose
+Tuesday,03:00-04:00,8,B,108,Physical Education,Mr. Singh
+Friday,10:00-11:00,6,B,120,Geography,Mrs. Bose
+Thursday,02:00-03:00,8,B,114,Geography,Mrs. Bose
+Monday,09:00-10:00,3,B,105,Computer,Mr. Paul
+Wednesday,10:00-11:00,9,B,114,Art,Mrs. Nair
+Friday,10:00-11:00,8,C,107,English,Mrs. Dutta
+Tuesday,02:00-03:00,9,B,106,Mathematics,Ms. Gupta
+Wednesday,12:00-01:00,2,C,114,Art,Mrs. Nair
+Tuesday,12:00-01:00,5,A,113,Physical Education,Mr. Singh
+Friday,08:00-09:00,2,C,114,Science,Mrs. Roy
+Tuesday,09:00-10:00,2,B,105,Art,Mrs. Nair
+Wednesday,12:00-01:00,6,A,105,Geography,Mrs. Bose
+Tuesday,03:00-04:00,4,A,113,Mathematics,Ms. Gupta
+Friday,12:00-01:00,4,C,105,Physical Education,Mr. Singh
+Wednesday,02:00-03:00,8,C,111,History,Mr. Ghosh
+Tuesday,12:00-01:00,8,B,111,Art,Mrs. Nair
+Monday,09:00-10:00,3,C,118,Science,Mr. Das
+Friday,08:00-09:00,3,C,112,English,Mrs. Dutta
+Tuesday,08:00-09:00,10,B,117,Geography,Mrs. Bose
+Wednesday,10:00-11:00,3,B,109,Mathematics,Ms. Gupta
+Wednesday,12:00-01:00,7,C,117,Geography,Mrs. Bose
+Monday,02:00-03:00,3,A,108,Mathematics,Ms. Gupta
+Tuesday,02:00-03:00,6,C,105,Physical Education,Mr. Singh
+Friday,08:00-09:00,6,A,108,English,Mrs. Dutta
+Tuesday,03:00-04:00,9,B,114,Geography,Mrs. Bose
+Wednesday,09:00-10:00,5,C,111,Physical Education,Mr. Singh
+Tuesday,11:00-12:00,7,A,119,English,Ms. Sen
+Thursday,08:00-09:00,3,A,111,History,Mr. Ghosh
+Monday,11:00-12:00,10,A,112,Art,Mrs. Nair
+Tuesday,02:00-03:00,3,A,108,Science,Mrs. Roy
+Thursday,09:00-10:00,2,A,113,Art,Mrs. Nair
+Friday,10:00-11:00,8,C,114,English,Ms. Sen
+Wednesday,12:00-01:00,8,B,114,Art,Mrs. Nair
+Wednesday,12:00-01:00,9,C,101,English,Mrs. Dutta
+Friday,10:00-11:00,7,C,110,Computer,Ms. Khan
+Thursday,10:00-11:00,7,B,118,Mathematics,Ms. Gupta
+Monday,03:00-04:00,5,C,106,English,Ms. Sen
+Monday,08:00-09:00,5,B,101,English,Mrs. Dutta
+Thursday,12:00-01:00,8,C,101,History,Mr. Ghosh
+Monday,03:00-04:00,2,B,103,English,Ms. Sen
+Friday,03:00-04:00,8,B,107,Physical Education,Mr. Singh
+Tuesday,11:00-12:00,5,A,104,Computer,Mr. Paul
+Thursday,08:00-09:00,3,A,108,Art,Mrs. Nair
+Tuesday,12:00-01:00,5,B,120,Science,Mr. Das
+Monday,03:00-04:00,8,A,112,Art,Mrs. Nair
+Monday,02:00-03:00,9,C,118,Computer,Ms. Khan
+Thursday,12:00-01:00,5,B,104,Mathematics,Mr. Sharma
+Thursday,03:00-04:00,10,B,105,Mathematics,Ms. Gupta
+Tuesday,02:00-03:00,6,A,116,Physical Education,Mr. Singh
+Monday,03:00-04:00,1,B,110,Mathematics,Ms. Gupta
+Monday,08:00-09:00,2,C,114,Science,Mrs. Roy
+Monday,09:00-10:00,9,B,113,Mathematics,Ms. Gupta
+Monday,03:00-04:00,3,A,118,Art,Mrs. Nair
+Wednesday,09:00-10:00,9,C,117,Geography,Mrs. Bose
+Friday,11:00-12:00,10,C,114,Art,Mrs. Nair
+Thursday,02:00-03:00,2,A,115,English,Mrs. Dutta
+Friday,12:00-01:00,7,A,120,English,Ms. Sen
+Friday,03:00-04:00,5,A,111,History,Mr. Ghosh
+Tuesday,11:00-12:00,7,C,102,Geography,Mrs. Bose
+Friday,11:00-12:00,6,C,115,Science,Mr. Das
+Thursday,10:00-11:00,4,C,114,Computer,Mr. Paul
+Thursday,08:00-09:00,5,A,118,Mathematics,Mr. Sharma
+Monday,08:00-09:00,8,C,118,Physical Education,Mr. Singh
+Thursday,08:00-09:00,8,B,109,Geography,Mrs. Bose
+Wednesday,10:00-11:00,10,A,113,English,Ms. Sen
+Wednesday,08:00-09:00,1,C,105,English,Mrs. Dutta
+Friday,11:00-12:00,6,C,107,Art,Mrs. Nair
+Tuesday,12:00-01:00,7,B,111,History,Mr. Ghosh
+Thursday,08:00-09:00,9,B,106,Geography,Mrs. Bose
+Friday,10:00-11:00,8,A,104,Mathematics,Ms. Gupta
+Tuesday,11:00-12:00,7,B,120,Science,Mr. Das
+Tuesday,09:00-10:00,7,A,108,History,Mr. Ghosh
+Tuesday,03:00-04:00,10,C,102,Science,Mr. Das
+Thursday,08:00-09:00,6,C,107,Computer,Ms. Khan
+Wednesday,03:00-04:00,4,A,115,Geography,Mrs. Bose
+Friday,02:00-03:00,10,C,106,Mathematics,Ms. Gupta
+Tuesday,11:00-12:00,3,C,101,Geography,Mrs. Bose
+Monday,02:00-03:00,2,A,118,Mathematics,Mr. Sharma
+Thursday,09:00-10:00,1,C,102,Computer,Ms. Khan
+Wednesday,02:00-03:00,4,C,115,History,Mr. Ghosh
+Tuesday,11:00-12:00,7,A,107,Art,Mrs. Nair
+Thursday,08:00-09:00,7,C,114,English,Mrs. Dutta
+Friday,11:00-12:00,4,C,118,History,Mr. Ghosh
+Wednesday,10:00-11:00,5,C,106,Computer,Mr. Paul
+Wednesday,09:00-10:00,3,A,115,Mathematics,Mr. Sharma
+Thursday,03:00-04:00,1,C,117,Physical Education,Mr. Singh
+Friday,09:00-10:00,7,A,107,Science,Mrs. Roy
+Wednesday,12:00-01:00,8,B,113,Physical Education,Mr. Singh
+Monday,08:00-09:00,1,A,109,Mathematics,Mr. Sharma
+Thursday,08:00-09:00,6,B,108,History,Mr. Ghosh
+Wednesday,03:00-04:00,2,C,115,Computer,Ms. Khan
+Friday,09:00-10:00,6,B,113,English,Ms. Sen
+Friday,08:00-09:00,4,B,103,Geography,Mrs. Bose
+Wednesday,02:00-03:00,8,A,117,Mathematics,Mr. Sharma
+Thursday,12:00-01:00,1,B,118,History,Mr. Ghosh
+Wednesday,10:00-11:00,2,A,119,Science,Mr. Das
+Tuesday,12:00-01:00,3,B,113,Art,Mrs. Nair
+Wednesday,09:00-10:00,6,A,105,Physical Education,Mr. Singh
+Friday,08:00-09:00,6,B,108,Physical Education,Mr. Singh
+Monday,11:00-12:00,1,C,109,Art,Mrs. Nair
+Monday,02:00-03:00,1,B,110,Geography,Mrs. Bose
+Monday,03:00-04:00,2,A,118,Art,Mrs. Nair
+Monday,12:00-01:00,1,A,102,History,Mr. Ghosh
+Tuesday,02:00-03:00,4,C,116,Physical Education,Mr. Singh
+Tuesday,08:00-09:00,8,B,118,English,Mrs. Dutta
+Thursday,12:00-01:00,10,A,111,History,Mr. Ghosh
+Tuesday,12:00-01:00,9,C,119,Geography,Mrs. Bose
+Tuesday,02:00-03:00,5,A,104,History,Mr. Ghosh
+Tuesday,08:00-09:00,2,A,102,English,Ms. Sen
+Friday,03:00-04:00,10,C,115,Physical Education,Mr. Singh
+Tuesday,10:00-11:00,2,B,106,Science,Mr. Das
+Tuesday,11:00-12:00,5,C,115,Science,Mrs. Roy
+Thursday,11:00-12:00,1,B,117,Physical Education,Mr. Singh
+Friday,03:00-04:00,2,B,116,Art,Mrs. Nair
+Friday,08:00-09:00,6,B,117,Science,Mr. Das
+Thursday,10:00-11:00,6,C,107,Computer,Ms. Khan
+Tuesday,10:00-11:00,4,A,101,English,Ms. Sen
